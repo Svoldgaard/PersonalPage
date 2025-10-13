@@ -1,0 +1,12 @@
+/Users/majkensvoldgaard/Desktop/PersonalPage/backend/dataaccess/bin/Debug/net9.0/dataaccess.deps.json
+/Users/majkensvoldgaard/Desktop/PersonalPage/backend/dataaccess/bin/Debug/net9.0/dataaccess.dll
+/Users/majkensvoldgaard/Desktop/PersonalPage/backend/dataaccess/bin/Debug/net9.0/dataaccess.pdb
+/Users/majkensvoldgaard/Desktop/PersonalPage/backend/dataaccess/obj/Debug/net9.0/dataaccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/majkensvoldgaard/Desktop/PersonalPage/backend/dataaccess/obj/Debug/net9.0/dataaccess.AssemblyInfoInputs.cache
+/Users/majkensvoldgaard/Desktop/PersonalPage/backend/dataaccess/obj/Debug/net9.0/dataaccess.AssemblyInfo.cs
+/Users/majkensvoldgaard/Desktop/PersonalPage/backend/dataaccess/obj/Debug/net9.0/dataaccess.csproj.CoreCompileInputs.cache
+/Users/majkensvoldgaard/Desktop/PersonalPage/backend/dataaccess/obj/Debug/net9.0/dataaccess.sourcelink.json
+/Users/majkensvoldgaard/Desktop/PersonalPage/backend/dataaccess/obj/Debug/net9.0/dataaccess.dll
+/Users/majkensvoldgaard/Desktop/PersonalPage/backend/dataaccess/obj/Debug/net9.0/refint/dataaccess.dll
+/Users/majkensvoldgaard/Desktop/PersonalPage/backend/dataaccess/obj/Debug/net9.0/dataaccess.pdb
+/Users/majkensvoldgaard/Desktop/PersonalPage/backend/dataaccess/obj/Debug/net9.0/ref/dataaccess.dll
