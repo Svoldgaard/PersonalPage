@@ -5,7 +5,7 @@ export const AboutMe: React.FC = () => {
         <section className="p-6 max-w-3xl mx-auto">
             <h2 className="text-2xl font-bold mb-2">About Me</h2>
             <p className="text-base leading-relaxed">
-                Hi! My name is <strong>[Your Name]</strong>. I’m a 29-year-old Computer Science student at
+                Hi! My name is <strong>Jesper Svoldgaard</strong>. I’m a 29-year-old Computer Science student at
                 <strong> EASV (Erhvervsakademi SydVest)</strong>, studying for an AP Degree in Computer
                 Science (Datamatiker).
             </p>
