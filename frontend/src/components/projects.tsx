@@ -1,4 +1,3 @@
-import React from "react";
 import "../css/Projects.css";
 import myImage from "../assets/react.svg"
 
@@ -11,16 +10,16 @@ type Project = {
     live?: string;
     hoverText?: string;
 };
-
+// replace projects with my own when i am happy with the design
 const projects: Project[] = [
     {
-        title: "Weather App",
-        description: "A simple real-time weather dashboard.",
+        title: "Library app ",
+        description: "A simple program which can hold books in a database with a search field and possible to update and delete books.",
         image: myImage, // replace it with picture off the project
-        techStack: ["React", "Node.js", "OpenWeather API"],
-        github: "https://github.com/yourname/weather-app",
-        live: "https://weatherapp-demo.com",
-        hoverText: "Built to visualize live weather data using modern APIs.",
+        techStack: ["React with typescript", "Postgress", "C# for API and database calls"],
+        github: "https://github.com/Svoldgaard/library",
+        live: "https://libraryclient.fly.dev",
+        hoverText: "Built to visualize a library with own data and APIs i have made in C#.",
     },
     {
         title: "Task Tracker",
@@ -42,7 +41,7 @@ const projects: Project[] = [
     },
 ];
 
-export const Projects: React.FC = () => {
+export const Projects = () => {
     return (
         <section className="projects">
             <h2 className="projects__title">Projects</h2>
